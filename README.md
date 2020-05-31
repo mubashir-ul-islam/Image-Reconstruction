@@ -18,8 +18,8 @@ Running the code will save two images, one `25.0%_input.jpg` and other `Output.j
 ### 10% random samples:
 `10.0%_input.jpg` **----------------------------->>>>** `Output.jpg`
 
-![image text]()
-![image text]()
+![image text](https://github.com/Mubashir-ul-Islam/Image-Reconstruction/blob/master/media/10%25_input.jpg)
+![image text](https://github.com/Mubashir-ul-Islam/Image-Reconstruction/blob/master/media/10%25_gif.gif)
 
 
 ### 25% random samples:
