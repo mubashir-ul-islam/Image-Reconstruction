@@ -1,6 +1,6 @@
 # Image-Reconstruction using python
 
-This Repository contain python code to reconstruct image from just small number of samples from original images. Below given examples show how accurate we were getting results, just from **5%** of the orignal images we were able to construct a pressentable image. 
+This Repository contain python code to reconstruct image from just small number of samples from original images. Below given examples show how accurate we were getting results, just from **5%** of the orignal images we were able to construct a presentable image. 
 
 Python file **`Image_Reconstruction.py`** contains the code for the reconstruction of the image.
 
