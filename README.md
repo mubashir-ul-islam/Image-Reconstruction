@@ -15,6 +15,16 @@ If you want to run this code for your own image then you need to place the link 
 
 Running the code will save two images, one `25.0%_input.jpg` and other `Output.jpg`. First image is the input to the program and the other is the final output.
 
+### Original image:
+![image text](https://github.com/Mubashir-ul-Islam/Image-Reconstruction/blob/master/test-images/horses.jpg)
+
+### 5% random samples:
+`5.0%_input.jpg` **----------------------------->>>>** `Output.jpg`
+
+![image text](https://github.com/Mubashir-ul-Islam/Image-Reconstruction/blob/master/media/5%25_input.jpg)
+![image text](https://github.com/Mubashir-ul-Islam/Image-Reconstruction/blob/master/media/5%25_gif.gif)
+
+
 ### 10% random samples:
 `10.0%_input.jpg` **----------------------------->>>>** `Output.jpg`
 
